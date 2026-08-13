@@ -1,6 +1,10 @@
 ![Ollie - SEO engineer and automation builder](banner.png)
 
-I'm an SEO engineer from Australia who builds search engine friendly systems at scale: programmatic SEO platforms, AI agents for content and research, and the Python tooling that powers both. I work across the full stack - Astro and Cloudflare Pages on the front, GSC APIs and LLM integrations behind it, and CLI tools in between.
+I'm an SEO engineer from Australia who builds search-friendly systems at scale - and helps clients turn them into measurable growth.
+
+I work across programmatic SEO platforms, AI agents for content and research, and the Python tooling I’ve built to power both. Full stack when needed: Astro and Cloudflare Pages on the front end, GSC APIs and LLM integrations behind it, with CLI tools and automation in between.
+
+The goal isn’t just better infrastructure - it’s more search visibility, more qualified traffic, and systems that help clients win.
 
 I'm taking on selective paid projects: SEO systems, API integrations, web automation, and bug fixes. If you need help or know someone who does, send an intro to `ollie@underdog.digital`.
 
