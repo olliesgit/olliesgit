@@ -44,5 +44,6 @@ I'm taking on selective paid projects: SEO systems, API integrations, web automa
 ## Links
 
 - Website: [underdog.digital](https://underdog.digital)
+- Website: [trade ads](https://tradeads.online)
 - X: [@ollies0x](https://x.com/ollies0x)
 - Email: `ollie@underdogdigital.com.au`
